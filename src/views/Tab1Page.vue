@@ -2,7 +2,7 @@
   <ion-page>
     <ion-header>
       <ion-toolbar>
-        <ion-title>Primer tab</ion-title>
+        <ion-title>First tab</ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content :fullscreen="true">
